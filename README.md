@@ -6,7 +6,7 @@ Instalação corrigida do DIFY - Dify é uma plataforma de código aberto para a
 # VPS de 4vcpu e 4gb Ram
 [![Logo do Projeto](https://i.ibb.co/QFsFPb5G/15022370-1741928862418.jpg)](https://www.kqzyfj.com/click-101209511-15022370)
 <p align="center">
-  <a href="https://www.tkqlhce.com/click-101209511-13484397" target="_top">
+  <a href="https://www.kqzyfj.com/click-101209511-15022370" target="_top">
     <img src="https://i.ibb.co/QFsFPb5G/15022370-1741928862418.jpg" width="250" height="360" alt="imagem" />
   </a>
 </p>
