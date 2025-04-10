@@ -1,4 +1,4 @@
-# Dify1.2 ![image](https://github.com/user-attachments/assets/8f9b75d6-d01f-4f0f-875c-6b8b006b2998)
+# Dify1.2 ![image](<a href="https://www.anrdoezrs.net/click-101209511-13484397" target="_top"><img src="https://www.awltovhc.com/image-101209511-13484397" width="250" height="360" alt="" border="0"/></a>)
 
 Instalação corrigida do DIFY - Dify é uma plataforma de código aberto para a construção de aplicações de IA. Combinamos Backend-as-a-Service e LLMOps para agilizar o desenvolvimento de soluções de IA generativas, tornando-as acessíveis tanto para desenvolvedores quanto para inovadores sem conhecimento técnico.
 
