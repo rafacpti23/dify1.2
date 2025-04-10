@@ -16,6 +16,6 @@ Para suporte caso nao consiga instalar temos o canal de contato ( contato@ramels
 
 <p align="center">
   <a href="https://www.tkqlhce.com/click-101209511-13484397" target="_top">
-    <img src="https://www.ftjcfx.com/image-101209511-13484397" width="250" height="360" alt="imagem" />
+    <img src="https://i.ibb.co/QFsFPb5G/15022370-1741928862418.jpg" width="250" height="360" alt="imagem" />
   </a>
 </p>
