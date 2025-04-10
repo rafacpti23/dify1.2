@@ -10,4 +10,4 @@ Instalação corrigida do DIFY - Dify é uma plataforma de código aberto para a
 Experimente monitorar suas vps e maquinas : https://guard.ramelseg.com.br
 
 Para suporte caso nao consiga instalar temos o canal de contato ( contato@ramelseg.com.br). Nele voce pode agendar sua instalação mentorada. Observando que se contratar VPS nova conosco na Contado, fazemos a instalação de 5 Aplicaçoes incluido Portainer + Traefik gratis.
-![image](https://ramelseg.com.br)
+[![image](https://ramelseg.com.br)](https://www.anrdoezrs.net/click-101209511-15022367)
