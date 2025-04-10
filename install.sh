@@ -4,14 +4,16 @@
 # 0. Banner inicial com "MAM"
 # ------------------------------------------------------------------------------
 
-echo -e "\e[34m            ____    ____  ______  ____    ____                             \e[0m"
-echo -e "\e[34m           | |\ \  / /| ||  __  || |\ \  / /| |                            \e[0m"
-echo -e "\e[34m           | | \ \/ / | || |__| || | \ \/ / | |                            \e[0m"
-echo -e "\e[34m           |_|  \__/  |_||_|  |_||_|  \__/  |_|                            \e[0m"
-echo -e "\e[34m                                                                            \e[0m"
-echo -e "\e[34m             Auto Instalador DOCKER/DifyAI V1                               \e[0m"
-echo -e "\e[34m                                                                            \e[0m"
-echo -e "\e[34m               https://automilionaria.trade                                 \e[0m"
+echo -e "\e[34m                                             \e[0m"
+echo -e "\e[34m    ____                          _          \e[0m"
+echo -e "\e[34m   |  _ \  __ _  _ __ ___    ___ | |         \e[0m"
+echo -e "\e[34m   | |_) |/ _` || '_ ` _ \  / _ \| |         \e[0m"
+echo -e "\e[34m   |  _ <| (_| || | | | | ||  __/| |___      \e[0m"
+echo -e "\e[34m   |_| \_\\__,_||_| |_| |_| \___||_____|     \e[0m"
+echo -e "\e[34m           créditos MAM                      \e[0m"
+echo -e "\e[34m          Instalador DifyAI V1               \e[0m"
+echo -e "\e[34m         contato@ramelseg.com.br             \e[0m"
+echo -e "\e[34m         https://ramelseg.com.br             \e[0m"
 
 # ------------------------------------------------------------------------------
 # 1. Garante que git e curl estejam instalados
@@ -31,13 +33,13 @@ fi
 # ------------------------------------------------------------------------------
 while true; do
   echo "=================================================="
-  read -p "Digite o domínio WEB (ex: df.automilionaria.trade): " WEB_DOMAIN
-  read -p "Digite o domínio API (ex: api-df.automilionaria.trade): " API_DOMAIN
+  read -p "Digite o domínio API do Dify (ex: apidify.seusite.com.br): " WEB_DOMAIN
+  read -p "Digite o domínio Web console (ex: dify.seusite.com.br): " API_DOMAIN
   
   echo
-  echo "Você informou:"
-  echo " - Domínio WEB: $WEB_DOMAIN"
-  echo " - Domínio API: $API_DOMAIN"
+  echo "Você configurou:"
+  echo " - Domínio API: $WEB_DOMAIN"
+  echo " - Domínio CONSOLE: $API_DOMAIN"
   echo
   
   read -p "Está correto? (s/n): " CONFIRMA
@@ -135,12 +137,12 @@ echo -e "\e[34m  | ||  _ \  /___)(_   _)(____ || | (____ | / _  | / _ \   \e[0m"
 echo -e "\e[34m  | || | | ||___ |  | |_ / ___ || | / ___ |( (_| || |_| |  \e[0m"
 echo -e "\e[34m  |_||_| |_|(___/    \__)\_____| \_)\_____| \____| \___/   \e[0m"
 echo
-echo -e "\e[37m                 Instalação concluída!                     \e[0m"
+echo -e "\e[37m      Instalação concluída com sucesso!                     \e[0m"
 echo -e "\e[37mVocê pode agora acessar o DifyAI em:                       \e[0m"
 echo -e "\e[32mhttps://$WEB_DOMAIN\e[0m"
 echo -e "\e[37mAPI disponível em:                                         \e[0m"
 echo -e "\e[32mhttps://$API_DOMAIN\e[0m"
 echo
-echo -e "\e[34mMétodo MAM:                                                \e[0m"
-echo -e "\e[34mhttps://automilionaria.trade\e[0m"
+echo -e "\e[34mRamel Tecnologia:                                           \e[0m"
+echo -e "\e[34mhttps://ramelseg.com.br\e[0m"
 
