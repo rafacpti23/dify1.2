@@ -1,11 +1,11 @@
 #!/bin/bash
 
 echo -e "\e[34m                                             \e[0m"
-echo -e "\e[34m    ____                          _          \e[0m"
-echo -e "\e[34m   |  _ \  __ _  _ __ ___    ___ | |         \e[0m"
-echo -e "\e[34m   | |_) |/ _` || '_ ` _ \  / _ \| |          \e[0m"
-echo -e "\e[34m   |  _ <| (_| || | | | | ||  __/| |___       \e[0m"
-echo -e "\e[34m   |_| \_\\__,_||_| |_| |_| \___||_____|     \e[0m"
+echo -e "\e[34m    xxxx                          _          \e[0m"
+echo -e "\e[34m   x  _ x  __ _  _ __ ___    ___ | |         \e[0m"
+echo -e "\e[34m   x x_) x/ _` || '_ ` _ \  / _ \| |          \e[0m"
+echo -e "\e[34m   x  _ <x (_| || | | | | ||  __/| |___       \e[0m"
+echo -e "\e[34m   x_x \_\\__,_||_| |_| |_| \___||_____|     \e[0m"
 echo -e "\e[34m           créditos MAM                      \e[0m"
 echo -e "\e[34m          Instalador DifyAI V1               \e[0m"
 echo -e "\e[34m         contato@ramelseg.com.br             \e[0m"
