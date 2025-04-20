@@ -3,8 +3,11 @@ Instalação corrigida do DIFY - Dify é uma plataforma de código aberto para a
 
 
 Para instalar segue:
+
 apt install git
+
 git clone https://github.com/rafacpti23/dify1.2.git
+
 bash install.sh
 
 # VPS de 4vcpu e 4gb Ram
