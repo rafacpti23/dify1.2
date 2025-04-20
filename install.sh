@@ -100,6 +100,7 @@ sed -i "s|^\(CONSOLE_WEB_URL=\).*|\1https://$WEB_DOMAIN|g" .env
 sed -i "s|^\(SERVICE_API_URL=\).*|\1https://$API_DOMAIN|g" .env
 sed -i "s|^\(APP_API_URL=\).*|\1https://$API_DOMAIN|g" .env
 sed -i "s|^\(APP_WEB_URL=\).*|\1https://$WEB_DOMAIN|g" .env
+sed -i "s|^\(NGINX_PORT=\).*|\81|g" .env
 
 # ------------------------------------------------------------------------------
 # 9. Sobe os containers do Dify.
