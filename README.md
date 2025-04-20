@@ -2,6 +2,10 @@
 Instalação corrigida do DIFY - Dify é uma plataforma de código aberto para a construção de aplicações de IA. Combinamos Backend-as-a-Service e LLMOps para agilizar o desenvolvimento de soluções de IA generativas, tornando-as acessíveis tanto para desenvolvedores quanto para inovadores sem conhecimento técnico.
 
 
+Para instalar segue:
+apt install git
+git clone https://github.com/rafacpti23/dify1.2.git
+bash install.sh
 
 # VPS de 4vcpu e 4gb Ram
 
